@@ -29,22 +29,22 @@ Once in [portal.azure.com](https://portal.azure.com/#home), you will need to com
 
 1. Click the `Create` button.
 
-![](1_create_azure_database_for_postgresql.png)
+![](images/1_create_azure_database_for_postgresql.png)
 
 2. You will then want to select `single server` to get the lowest monthly cost.
 
-![](2_server_type.png)
+![](images/2_server_type.png)
 
 3. Now, you will be able to set up the server.  Make sure you pick the same _Location_ as your other resources. You will want to click on `configure server`
 
-![](3_single_server_setup.png)
+![](images/3_single_server_setup.png)
 
 4. You will then see the `General Purpose` tab.  Click on the `Basic` tab.
 
-![](4_general_purpose_config.png)
+![](images/4_general_purpose_config.png)
 
 5. On the `Basic` tab, you can adjust to one core and reduce the store to the size you require.  My database is about 30 gigs. Then click `ok`.
 
-![](5_basic_config.png)
+![](images/5_basic_config.png)
 
 6. Now, you can go through the additional steps and then click `Create` at the bottom.
